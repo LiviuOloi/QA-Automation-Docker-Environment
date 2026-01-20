@@ -43,4 +43,4 @@ It simulates a real-world scenario where QA engineers need to run applications a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LiviuOloi/qa-docker-compose-lab.git
+   git clone https://github.com/LiviuOloi/QA-Automation-Docker-Environment.git
