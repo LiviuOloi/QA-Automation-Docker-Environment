@@ -1,4 +1,4 @@
-# QA Docker Compose Lab
+# QA Automation Docker Environment
 
 This repository is part of a larger **QA Automation project** and focuses on using **Docker and Docker Compose** to create reproducible and isolated test environments.
 
